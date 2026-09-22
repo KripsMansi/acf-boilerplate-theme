@@ -1,0 +1,2 @@
+# ACF Local JSON sync directory.
+# Field group JSON files are saved/loaded here via filters in inc/acf.php.

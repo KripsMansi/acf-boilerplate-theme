@@ -1,0 +1,18 @@
+/*
+Theme Name: ACF Boilerplate Theme
+Theme URI: https://profiles.wordpress.org/hell0bunny/
+Author: hell0bunny
+Author URI: https://profiles.wordpress.org/hell0bunny/
+Description: ACF-driven WordPress theme boilerplate. Structure only — no frontend styling. Search the codebase for the acfb_ prefix.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: acf-boilerplate-theme
+Tags: custom-menu, featured-images, flexible-header, translation-ready
+
+This file contains the theme declaration only.
+Do not add design styles here — place frontend CSS in /assets/css/.
+*/
